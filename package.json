@@ -1,0 +1,13 @@
+
+{
+  "name": "cloud-deployment-lab",
+  "version": "1.0.0",
+  "description": "Node.js application deployed using Docker and AWS EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
